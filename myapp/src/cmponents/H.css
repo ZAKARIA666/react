@@ -1,0 +1,81 @@
+.mb-3  { color:rgb(236, 233, 233);
+
+border-color: brown;
+border: 12px; 
+width: 250px ;
+
+}
+body{background-image: url("https://c.wallhere.com/photos/96/d4/mechanism_reflection_spider_robot_light-711440.jpg!d"); background-repeat:no-repeat; background-size: cover;
+
+}
+.box1{display: flex;
+justify-content: center;
+border: 20px;
+margin: 10px;
+justify-content: center;
+align-items: center;
+
+}
+h1 {color: rgba(227, 235, 242, 0.618);
+    text-decoration-line: underline ;
+    text-shadow: 2px 2px #40b0e4;
+    font-family: cursive;
+    
+  }
+.bb{font-size: 60px;}
+.cc{display: flex;
+    border: 10px;
+border-color: aliceblue;
+background-color: #489054;
+border-radius: 5px;
+width: 60px;
+justify-content: center;
+color: aliceblue;
+
+
+}
+.react{display: flex;
+justify-content: start;}
+img{size: 30px;
+
+width: 30px;}
+.boox{ display: flex;
+  font-size: 35px;
+  font-family:fantasy;
+  color: white;
+  word-spacing: 5px; 
+}
+.ll{display: flex;
+justify-items: first baseline;
+}
+.deux{ display: grid;
+justify-content: start;
+font-size: 42px;
+font-family:fantasy;
+color: white;
+word-spacing: 8px; 
+
+}
+h4{ color: rgb(128, 32, 22);
+background-color: black;}
+.image{display: flex;
+  width: 400px;
+  height: 140px;
+
+}
+.image1{display: flex;
+size: 100px;
+
+}
+img{ width: 150px;}
+p{color: aliceblue;}
+.act{display: grid;
+justify-content: start;}
+h5{color:rgb(140, 22, 22);
+background-color: black;
+font-family: fantasy;
+font-size: 70px;
+}
+li{color: aliceblue;
+list-style:disc;
+font-size: 15px}
